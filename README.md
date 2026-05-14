@@ -33,6 +33,16 @@
 
 ---
 
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=moisesvalero&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=moisesvalero&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=moisesvalero&theme=tokyonight&hide_border=true&layout=compact&hide=php" width="50%" />
+</p>
+
+---
 
 <p align="center">
   <i>Author of <a href="https://www.amazon.es/Cr%C3%B3nicas-Visigodas-Leyendas-Reino-Perdido/dp/B0D6VDS488">"Crónicas Visigodas"</a> • Gaming & PC Hardware Enthusiast</i>
