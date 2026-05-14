@@ -4,10 +4,11 @@
   </p>
 
 <p align="center">
-  <a href="https://moisesvalero.es">
+  <a href="https://moisesvalero.es" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=flat-square&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/moisesvalero/">
+  
+  <a href="https://www.linkedin.com/in/moisesvalero/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
