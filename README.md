@@ -1,12 +1,15 @@
-<h1 align="center">Moisés Valero</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3E00&height=280&section=header&text=Moisés%20Valero&fontSize=50&fontColor=ffffff&desc=Web%20Developer%20%7C%20SvelteKit%20%7C%20WordPress%20%7C%20AI%20and%20APIs&descSize=18&descAlignY=72" />
 <p align="center">
-  <strong>Web Developer | SvelteKit | WordPress | SEO & Systems Management<br>
-  Based in Alcoy, Spain 🇪🇸
-</p>
+  <strong>Based in Alcoy, Spain 🇪🇸<br>
+  </p>
 
 <p align="center">
-  <a href="https://moisesvalero.es">moisesvalero.es</a> •
-  <a href="https://www.linkedin.com/in/moisesvalero/">LinkedIn</a>
+  <a href="https://moisesvalero.es">
+    <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=flat-square&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/moisesvalero/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
