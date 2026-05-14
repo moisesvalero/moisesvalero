@@ -29,16 +29,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisesvalero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesvalero&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
 
 <p align="center">
-  <i>Author of <a href="https://www.amazon.es/Cr%C3%B3nicas-Visigodas-Leyendas-Reino-Perdido/dp/B0CTD6Y7D6">"Crónicas Visigodas"</a> • Gaming & PC Hardware Enthusiast</i>
+  <i>Author of <a href="https://www.amazon.es/Cr%C3%B3nicas-Visigodas-Leyendas-Reino-Perdido/dp/B0D6VDS488">"Crónicas Visigodas"</a> • Gaming & PC Hardware Enthusiast</i>
 </p>
 
 
