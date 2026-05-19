@@ -16,8 +16,8 @@
 ---
 
 ### ⚡ About Me / Sobre mí
-- 🇬🇧 Focused on building digital tools and solving technical problems through **AI-assisted development**.
-- 🇪🇸 Enfocado en la creación de herramientas digitales y resolución de problemas técnicos mediante **desarrollo asistido por IA**.
+- 🇬🇧 Focused on building digital tools and solving technical problems through **AI-Driven & Spec-Driven Development (SDD)**.
+- 🇪🇸 Enfocado en la creación de herramientas digitales y resolución de problemas técnicos mediante **AI-Driven & Spec-Driven Development (SDD)**.
 
 ### 🛠️ Tech Stack
 <p align="left">
