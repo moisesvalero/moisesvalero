@@ -35,22 +35,17 @@
 ---
 
 # 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg">
-        <img alt="GitHub Stats Overview" src="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg">
-      </picture>
-    </td>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg">
-        <img alt="GitHub Languages Stats" src="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg">
+    <img alt="GitHub Stats Overview" src="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg" width="48%" min-width="300px" />
+  </picture>
+  <span>&nbsp;&nbsp;</span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg">
+    <img alt="GitHub Languages Stats" src="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg" width="48%" min-width="300px" />
+  </picture>
+</p>
 
 ---
 
