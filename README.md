@@ -35,13 +35,22 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=moisesvalero&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=moisesvalero&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=moisesvalero&theme=tokyonight&hide_border=true&layout=compact&hide=php" width="50%" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg">
+        <img alt="GitHub Stats Overview" src="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg">
+      </picture>
+    </td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg">
+        <img alt="GitHub Languages Stats" src="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
