@@ -36,15 +36,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg">
-    <img alt="GitHub Stats Overview" src="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg" width="48%" min-width="300px" />
-  </picture>
-  <span>&nbsp;&nbsp;</span>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg">
-    <img alt="GitHub Languages Stats" src="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg" width="48%" min-width="300px" />
-  </picture>
+  <img alt="GitHub Stats Overview" src="https://github.com/moisesvalero/github-stats/blob/generated/overview.svg" />
+  <img alt="GitHub Languages Stats" src="https://github.com/moisesvalero/github-stats/blob/generated/languages.svg" />
 </p>
 
 ---
