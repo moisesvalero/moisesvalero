@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3E00&height=280&section=header&text=Moisés%20Valero&fontSize=50&fontColor=ffffff&desc=Web%20Developer%20%7C%20SvelteKit%20%7C%20WordPress%20%7C%20AI%20and%20APIs&descSize=18&descAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3E00&height=280&section=header&text=Moisés%20Valero&fontSize=50&fontColor=ffffff&desc=Web%20Developer%20%7C%20SvelteKit%20%7C%20React%20%7C%20Next.js%20%7C%20WordPress%20%7C%20AI%20and%20APIs&descSize=18&descAlignY=72" />
 <p align="center">
   <strong>Based in Alcoy, Spain 🇪🇸<br>
   </p>
