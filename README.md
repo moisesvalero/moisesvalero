@@ -19,6 +19,10 @@
 - 🇬🇧 Focused on building digital tools and solving technical problems through **AI-Driven & Spec-Driven Development (SDD)**.
 - 🇪🇸 Enfocado en la creación de herramientas digitales y resolución de problemas técnicos mediante **AI-Driven & Spec-Driven Development (SDD)**.
 
+### 🌐 Open Source & Community Highlights
+- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**: Contributed CLI `prompt_toolkit` escape-sequence keybindings fix ([commit f7c23ae](https://github.com/NousResearch/hermes-agent/commit/f7c23aeb3946e5c92fefd4552efb5374dd7dfcc9) via [#86768](https://github.com/NousResearch/hermes-agent/pull/86768)).
+- ⚡ **[Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)**: Author of **[my-sveltekit-starter](https://github.com/moisesvalero/my-sveltekit-starter)**, curated into the official community resources list.
+
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
