@@ -23,6 +23,7 @@
 - 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**:
   - **Desktop UI**: Fixed Settings search opacity under Glass translucency ([#107004](https://github.com/NousResearch/hermes-agent/pull/107004), co-authored / [#98513](https://github.com/NousResearch/hermes-agent/pull/98513)).
   - **CLI & Core**: Fixed `prompt_toolkit` Alt keybindings escape-sequences ([commit f7c23ae](https://github.com/NousResearch/hermes-agent/commit/f7c23aeb3946e5c92fefd4552efb5374dd7dfcc9) via [#86768](https://github.com/NousResearch/hermes-agent/pull/86768)).
+- ▲ **[Awesome Next.js](https://github.com/officialrajdeepsingh/awesome-nextjs)**: Author of **[next-agent-template](https://github.com/moisesvalero/next-agent-template)**, curated into the community boilerplate list.
 - ⚡ **[Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)**: Author of **[my-sveltekit-starter](https://github.com/moisesvalero/my-sveltekit-starter)**, curated into the official community resources list.
 
 ### 🛠️ Tech Stack
