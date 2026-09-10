@@ -20,7 +20,9 @@
 - 🇪🇸 Enfocado en la creación de herramientas digitales y resolución de problemas técnicos mediante **AI-Driven & Spec-Driven Development (SDD)**.
 
 ### 🌐 Open Source & Community Highlights
-- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**: Contributed CLI `prompt_toolkit` escape-sequence keybindings fix ([commit f7c23ae](https://github.com/NousResearch/hermes-agent/commit/f7c23aeb3946e5c92fefd4552efb5374dd7dfcc9) via [#86768](https://github.com/NousResearch/hermes-agent/pull/86768)).
+- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**:
+  - **Desktop UI**: Fixed Settings search opacity under Glass translucency ([#107004](https://github.com/NousResearch/hermes-agent/pull/107004), co-authored / [#98513](https://github.com/NousResearch/hermes-agent/pull/98513)).
+  - **CLI & Core**: Fixed `prompt_toolkit` Alt keybindings escape-sequences ([commit f7c23ae](https://github.com/NousResearch/hermes-agent/commit/f7c23aeb3946e5c92fefd4552efb5374dd7dfcc9) via [#86768](https://github.com/NousResearch/hermes-agent/pull/86768)).
 - ⚡ **[Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)**: Author of **[my-sveltekit-starter](https://github.com/moisesvalero/my-sveltekit-starter)**, curated into the official community resources list.
 
 ### 🛠️ Tech Stack
